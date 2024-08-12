@@ -6,6 +6,7 @@ function App() {
       <div>
         Hola soy un app
       </div>
+      <p>Agregando Contenido al app</p>
     </>
   )
 }
