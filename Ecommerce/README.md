@@ -1,1 +1,1 @@
-# Proyecto Ecommerce en EDteam con React
+# Proyecto Ecommerce en EDteam con React.
