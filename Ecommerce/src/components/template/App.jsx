@@ -4,7 +4,9 @@ const App = () => {
    return(
       <div>
          <MainHeader />
-         <Outlet/>
+         <div className="pt-16 m-auto max-w-200">
+            <Outlet/>
+         </div>
       </div>
    )
 }
